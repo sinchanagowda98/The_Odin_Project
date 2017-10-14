@@ -1,0 +1,75 @@
+
+		table.header
+		{
+			clear: both;
+			float: right;
+			margin: 5px;
+			border-spacing: 17px;
+			font: 14px sans-serif;
+		}
+		img
+		{
+			width: 20px;
+			height: 20px;
+		}
+		.logo
+		{
+			clear: both;
+			position:fixed;
+    		left: 60%;
+    		top: 60%;
+    		margin-left:-382px;
+    		margin-top:-370px;
+    		width: 450px;
+    		height: 250px;
+		}
+		#clear 
+		{
+    		float: none; 
+    		clear: both; 
+    		height: 0;
+    		margin: 0;
+    		padding: 0; 
+		}
+
+		.text 
+		{
+			clear: both;
+			position:fixed;
+    		left: 28.5%;
+    		top: 37%;
+    		padding: 12px; 
+    		width: 40%;
+    		margin-top: 25px; 
+   	 		font: 14px sans-serif;
+    		background-color: white; 
+    		border: 1px solid black; 
+    	}
+    	.submit
+    	{
+    		background-color: light grey;
+    		padding: 7px;
+    		text-align: center;
+    		position:fixed;
+    		left:40%;
+    		top: 48%;
+    	}
+    	.button
+    	{
+    		background-color: light grey;
+    		padding: 7px;
+    		text-align: center;
+    		position:fixed;
+    		left:50%;
+    		top: 48%;
+    	}
+
+    	table.footer
+    	{
+    		background-color: light grey;
+    		margin: 5px;
+			border-spacing: 17px;
+			font: 14px sans-serif;
+			bottom: 1px;
+			position: absolute;
+    	}
